@@ -1,6 +1,6 @@
 # 🎬 IMDB Movie Review Sentiment Analysis
 
-<img src="Screenshot 2025-07-12 232448.png" width="700"/>
+<img src="https://github.com/priyanshu-sen-07/imdb-sentiment-rnn/blob/main/Screenshot%202025-07-12%20232448.png" width="700"/>
 
 ## 📖 Project Overview
 
@@ -29,10 +29,3 @@ This project uses Deep Learning (Simple RNN) to classify movie reviews from the 
 | **Web UI**       | `streamlit`                                        |
 
 ---
-
-## 🚀 How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/imdb-sentiment-analysis-rnn.git
-cd imdb-sentiment-analysis-rnn
